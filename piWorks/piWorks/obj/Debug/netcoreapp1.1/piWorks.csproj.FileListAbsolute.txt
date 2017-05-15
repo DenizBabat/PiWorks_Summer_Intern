@@ -1,0 +1,9 @@
+c:\users\deniz\documents\visual studio 2017\Cshap\piWorks\piWorks\bin\Debug\netcoreapp1.1\piWorks.deps.json
+c:\users\deniz\documents\visual studio 2017\Cshap\piWorks\piWorks\bin\Debug\netcoreapp1.1\piWorks.runtimeconfig.json
+c:\users\deniz\documents\visual studio 2017\Cshap\piWorks\piWorks\bin\Debug\netcoreapp1.1\piWorks.runtimeconfig.dev.json
+c:\users\deniz\documents\visual studio 2017\Cshap\piWorks\piWorks\bin\Debug\netcoreapp1.1\piWorks.dll
+c:\users\deniz\documents\visual studio 2017\Cshap\piWorks\piWorks\bin\Debug\netcoreapp1.1\piWorks.pdb
+c:\users\deniz\documents\visual studio 2017\Cshap\piWorks\piWorks\obj\Debug\netcoreapp1.1\piWorks.csprojResolveAssemblyReference.cache
+c:\users\deniz\documents\visual studio 2017\Cshap\piWorks\piWorks\obj\Debug\netcoreapp1.1\piWorks.AssemblyInfo.cs
+c:\users\deniz\documents\visual studio 2017\Cshap\piWorks\piWorks\obj\Debug\netcoreapp1.1\piWorks.dll
+c:\users\deniz\documents\visual studio 2017\Cshap\piWorks\piWorks\obj\Debug\netcoreapp1.1\piWorks.pdb
